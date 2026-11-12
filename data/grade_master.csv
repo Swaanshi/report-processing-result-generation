@@ -1,0 +1,10 @@
+grade_cd,grade_desc,percent_from,percent_till
+A1,Outstanding,91,100
+A2,Excellent,81,90
+B1,Very Good,71,80
+B2,Good,61,70
+C1,Above Average,51,60
+C2,Average,41,50
+D,Satisfactory,33,40
+E1,Needs Improvement,21,32
+E2,Poor,0,20

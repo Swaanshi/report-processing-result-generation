@@ -1,0 +1,18 @@
+# secrets / local config
+.env
+
+# local SQLite demo database
+*.db
+
+# generated PDFs (curated examples live in sample_output/)
+output/*
+!output/.gitkeep
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.vscode/
+.DS_Store
